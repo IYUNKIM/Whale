@@ -1,4 +1,4 @@
-# 🎵&nbsp;&nbsp;Whale - 음악 스트리밍 및 커뮤니티 서비스 웹사이트
+# 🎵&nbsp;&nbsp;Whale - 음악 스트리밍 및 커뮤니티 서비스
 <br>
 
 Spotify API를 활용하여 **음악 스트리밍 및 커뮤니티** 기능을 제공하는 웹사이트입니다.<br>
@@ -19,20 +19,26 @@ Spotify API를 활용하여 **음악 스트리밍 및 커뮤니티** 기능을 �
 - **사용 기술** : Java, Javascript, Vue.js, Spring Framework, Node.js, Oracle, MyBatis<br><br>
 
 ## 📌&nbsp;&nbsp;담당 역할 및 구현 기능
-### 1️⃣&nbsp;&nbsp;**메인 화면 개발** (100%)
+### 1️⃣&nbsp;&nbsp;**팀장 & 프로젝트 초기 세팅**
+- Spring(Java) & Node.js 기반의 이중 서버 환경 설계 및 초기 세팅<br>
+- Vue.js 환경 구축 및 Front-End ↔ Back-End 데이터 연동 방식 설계<br>
+- 팀원들의 개발 환경 세팅 지원 및 코드 리뷰 진행<br>
+- 프로젝트 일정 관리 및 기술적 이슈 해결 주도<br><br>
+
+### 2️⃣&nbsp;&nbsp;**메인 화면 개발** (100%)
 - 7가지 주요 기능(음악 스트리밍, 피드, 메시지, 프로필, 환경설정, 관리자, 검색) 동시 배치<br>
 - Spotify 음악 플레이어 : 음악 스트리밍, 피드, 메시지, 프로필 등에서 음악을 재생할 경우, 메인 화면 플레이어에서 연동하여 재생 처리 및 플레이어 기능 구현<br>
 - 알림 시스템 : 좋아요, 댓글, 팔로우, 관리자 알림 및 WebSocket을 활용한 실시간 메시지 알림 처리<br><br>
 ![Image](https://github.com/user-attachments/assets/134f7f8f-be68-4713-80d5-88d689b69f62)<br><br>
-![Image](https://github.com/user-attachments/assets/ddc1e7d5-d117-47ac-a525-ba21b96918ae)
+![Image](https://github.com/user-attachments/assets/ddc1e7d5-d117-47ac-a525-ba21b96918ae)<br><br>
 
-### 2️⃣&nbsp;&nbsp;**음악 스트리밍 기능 개발** (60%)
+### 3️⃣&nbsp;&nbsp;**음악 스트리밍 기능 개발** (60%)
 - 앨범, 아티스트, 트랙, 플레이리스트 상세 페이지 구현<br>
 - Spotify API를 활용한 음악 검색 및 정보 제공<br>
 - 트랙 좋아요 기능 구현 (자체 DB 활용)<br><br>
 ![Image](https://github.com/user-attachments/assets/73dd5d0c-95b2-4ca4-8fcc-e3bc18aa70c4)<br><br>
-![Image](https://github.com/user-attachments/assets/25ce4ff9-42c1-4cab-bc63-16488d749663)
+![Image](https://github.com/user-attachments/assets/25ce4ff9-42c1-4cab-bc63-16488d749663)<br><br>
 
-### 3️⃣&nbsp;&nbsp;**검색 기능 구현** (50%)
+### 4️⃣&nbsp;&nbsp;**검색 기능 구현** (50%)
 - 유저, 피드, 커뮤니티 글 및 댓글 검색 기능 개발<br><br>
 ![Image](https://github.com/user-attachments/assets/6fa80afe-8904-4ebd-a9a9-aef4669c8f20)

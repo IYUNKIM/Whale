@@ -30,6 +30,9 @@ Spotify API를 활용하여 **음악 스트리밍 및 커뮤니티** 기능을 �
 - 앨범, 아티스트, 트랙, 플레이리스트 상세 페이지 구현<br>
 - Spotify API를 활용한 음악 검색 및 정보 제공<br>
 - 트랙 좋아요 기능 구현 (자체 DB 활용)<br><br>
+![Image](https://github.com/user-attachments/assets/73dd5d0c-95b2-4ca4-8fcc-e3bc18aa70c4)<br><br>
+![Image](https://github.com/user-attachments/assets/25ce4ff9-42c1-4cab-bc63-16488d749663)
 
 ### 3️⃣&nbsp;&nbsp;**검색 기능 구현** (50%)
-- 유저, 피드, 커뮤니티 글 및 댓글 검색 기능 개발<br>
+- 유저, 피드, 커뮤니티 글 및 댓글 검색 기능 개발<br><br>
+![Image](https://github.com/user-attachments/assets/6fa80afe-8904-4ebd-a9a9-aef4669c8f20)

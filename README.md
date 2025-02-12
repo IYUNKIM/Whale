@@ -20,7 +20,7 @@ Spotify API를 활용하여 **음악 스트리밍 및 커뮤니티** 기능을 �
 
 ## 📌&nbsp;&nbsp;담당 역할 및 구현 기능
 ### 1️⃣&nbsp;&nbsp;**팀장 & 프로젝트 초기 세팅**
-- Spring(Java) & Node.js 기반의 이중 서버 환경 설계 및 초기 세팅<br>
+- Spring Boot & Node.js 기반의 이중 서버 환경 설계 및 초기 세팅<br>
 - Vue.js 환경 구축 및 Front-End ↔ Back-End 데이터 연동 방식 설계<br>
 - 팀원들의 개발 환경 세팅 지원 및 코드 리뷰 진행<br>
 - 프로젝트 일정 관리 및 기술적 이슈 해결 주도<br><br>
